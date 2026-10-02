@@ -6,7 +6,7 @@
 
 Black-Scholes pricer with Monte Carlo as a cross-check, full Greeks, an implied vol solver, and a small web UI on top. Built this to actually understand where closed-form pricing breaks down versus where you need simulation.
 
-See also: [quant-engine](https://github.com/JanBoend/quant-engine), [market-regime-detector](https://github.com/JanBoend/market-regime-detector), [portfolio-optimizer](https://github.com/JanBoend/portfolio-optimizer).
+See also: [quant-engine](https://github.com/JanBoend/quant-engine), [market-regime-detector](https://github.com/JanBoend/market-regime-detector), [factor-backtest](https://github.com/JanBoend/factor-backtest).
 
 ## Prices
 
